@@ -1,4 +1,3 @@
-
 # MongoCamp 
 
 ![](docs/public/logo_with_text_right.png)
@@ -12,6 +11,7 @@ Universal REST Handling for MongoDB ....
 
 ### Contributing
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/MongoCamp/mongocamp-server)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMongoCamp%2Fmongocamp-server.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMongoCamp%2Fmongocamp-server?ref=badge_shield)
 
 If you find this library helpfull, so you can see here how you can help:
 - Send a pull request with your features and bug fixes
@@ -37,6 +37,9 @@ Password: test
 
 ## Licence
 [Apache 2 License.](https://github.com/mongocamp/mongocamp-server/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMongoCamp%2Fmongocamp-server.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMongoCamp%2Fmongocamp-server?ref=badge_large)
 
 ## Usage
 You can use [Docker Compose](https://server.mongocamp.dev/guide/getting-started.html) or directly use directly docker run command.
